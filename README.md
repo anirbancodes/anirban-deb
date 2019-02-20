@@ -1,27 +1,28 @@
-## You are welcome
-
-Hey
+## Good to see you, what's up ?
 
 
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+### Me
+I'm Anirban (You be: “what's new in that !, hahah!”)
+
 
 ```markdown
-Syntax highlighted code block
+I am an author `@Amazon`
 
-# Header 1
-## Header 2
-### Header 3
+# *Java* - _Get Started_
+# _This is not a book on_ *Quantum Mechanics*
+# *Complex Analysis* - _Gone Wrong_
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+
+
+
+
+
+
 
 [Link](url) and ![Image](src)
 ```
