@@ -4,17 +4,17 @@
 
 
 
-### Me
-I'm Anirban (You be: “what's new in that !, hahah!”)
+### About
+I'm Anirban. (You be like: “what's new in that !, hahah!”)
 
 
 ```markdown
 I am an author `@Amazon`
 
-# **Java** - _Get Started_
-# This is not a book on **Quantum Mechanics**
-# **Complex Analysis** - _Really ?_
-
+# **Java** - Get Started
+# This is not **Quantum Mechanics**
+# **Complex Analysis** - 
+## **Node.js** - A beginner's approach
 
 
 
