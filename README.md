@@ -11,10 +11,10 @@ I'm Anirban. (You be like: “what's new in that !, hahah!”)
 ```markdown
 I am an author `@Amazon`
 
-# **Java** - Get Started
-# This is not **Quantum Mechanics**
-# **Complex Analysis** - 
-## **Node.js** - A beginner's approach
+# `Java` - Get Started
+# This is not a book on `Quantum Mechanics`
+# `Complex Analysis`
+# `Node.js` - A beginner's approach
 
 
 
