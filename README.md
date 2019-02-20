@@ -5,7 +5,7 @@
 
 
 ### About
-I'm Anirban. (You be like: “what's new in that !, hahah!”)
+👋 I'm Anirban. (You be like: “what's new in that !, hahah!”)
 
 
 ```markdown
