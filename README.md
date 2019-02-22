@@ -5,7 +5,7 @@
 
 
 ### About
-👋 I'm Anirban. (You be like: “what's new in that !, hahah!”)
+👋 I'm Anirban Deb. I'm 18 and I'm a coder. I studied physics at Quantum Physics Classes. I wrote a few books most of which are going to launch soon and one is already available as pre-order.
 
 
 ```markdown
@@ -14,7 +14,7 @@ I am an author `@Amazon`
 … `Java` - Get Started
 … This is not a book on `Quantum Mechanics`
 … `Complex Analysis`
-… `Node.js` - A beginner's approach
+… `.JS ` - A beginner's approach
 
 
 
