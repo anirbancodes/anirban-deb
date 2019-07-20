@@ -5,12 +5,12 @@
 
 
 ### About
-👋 I'm Anirban Deb, 18 y.o. and I code. I studied phsyics at Quantum Physics Classes.
+👋 I'm Anirban Deb, 18 y.o. and I code. Currently working on a Linux Distro and a mini-OS.
 
 
 ```markdown
-My new book `.JS : A Complete Beginner's Approach`
-will be available as pre-order @Amazon soon.
+My new book `.JS : A Complete Beginner's Approach` and `Analysis of Complex Numbers`
+will be available @Amazon soon.
 
 
 
@@ -34,6 +34,6 @@ will be available as pre-order @Amazon soon.
 
 
 ### Touch
-`anirbandeb430@gmail.com`
-https://linktr.ee/anrbncodes
+Mail me `devcodes@pm.me`
+https://linktr.ee/anirban.codes
 
