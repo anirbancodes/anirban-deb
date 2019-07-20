@@ -35,5 +35,5 @@ will be available @Amazon soon.
 
 ### Touch
 Mail me `devcodes@pm.me`
-https://linktr.ee/anirban.codes
+`https://linktr.ee/anirban.codes`
 
